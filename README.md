@@ -10,3 +10,6 @@
 # Snapkit, Alamofire and Kingfisher were used as 3rd party libraries in the project.
 
 ## Note: Due to the absence of stock data in the API content, static data has been used for product stock quantities.
+
+## Requirements
+  - XCode 15
