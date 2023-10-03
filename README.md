@@ -4,7 +4,7 @@
 
 # ShoppingApp is an application with a simple interface and basic functions.
 
-# MVVM architecture developed using Swift language was preferred.
+# It was developed using the Swift programming language, and the MVVM architecture was preferred.
 
 # Developed using Platzi Fake Store API based on OpenAPI specification. https://api.escuelajs.co/docs
 # Snapkit, Alamofire and Kingfisher were used as 3rd party libraries in the project.
